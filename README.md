@@ -18,6 +18,7 @@ If you would rather just watch a video demo, click here: https://youtu.be/1W4NJ1
 
 # To-Do List
 
+- Make site compatible with mobile devices
 - Write a privacy policy and verify the app with Google
 - If verification fails, alter content to fit into a less restricted scope
 
