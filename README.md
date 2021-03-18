@@ -8,7 +8,7 @@ Google claims that employees do not read your data such as emails and documents.
 
 # How to use My Virtual Assistant
 
-Go to https://myvirtualassisstant.github.io/My-Virtual-Assistant/ to see the project.
+Go to https://myvirtualassistant.github.io/My-Virtual-Assistant/ to see the project.
 
 Currently, My Virtual Assistant is not verified by Google, so to connect your Google Account and interact with the site, you must be a tester.
 
