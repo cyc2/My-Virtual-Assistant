@@ -14,6 +14,13 @@ Currently, My Virtual Assistant is not verified by Google, so to connect your Go
 
 If you're interested in testing My Virtual Assistant, send your email address to yc0@uchicago.edu. When using My Virtual Assistant, the latest file in your Google Drive will be deleted.
 
+If you would rather just watch a video demo, click here: https://youtu.be/1W4NJ1etzpQ.
+
+# To-Do List
+
+- Write a privacy policy and verify the app with Google
+- If verification fails, alter content to fit into a less restricted scope
+
 # Resources
 What third-party apps can do, directly from Google:
 
