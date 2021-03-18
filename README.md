@@ -25,4 +25,4 @@ How apps can and have been reading your emails:
 
 If you're concerned, you can unlink your Google account from third-party apps here:
 
-- https://myaccount.google.com/accountlinking
+- https://myaccount.google.com/permissions
